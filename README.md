@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gokersoylu
 - 👀 I’m interested in future
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me is how to reach.me?
 
 
